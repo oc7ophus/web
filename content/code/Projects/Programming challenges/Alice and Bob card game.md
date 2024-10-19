@@ -1,3 +1,10 @@
+---
+tags:
+  - pages/dirty
+  - java
+  - programming
+---
+
 
 Find prime factors:
 

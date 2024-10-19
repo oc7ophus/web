@@ -1,8 +1,13 @@
+---
+tags:
+  - guide
+---
+
 ## Additional Detail on Some Subjects
 
-    I added these to reinforce some ideas already presented above, but didn't want to include them
-    above because it's just too much. It's easy to overdo it on a subject.
-    You want to get hired in this century, right?
+I added these to reinforce some ideas already presented above, but didn't want to include them
+above because it's just too much. It's easy to overdo it on a subject.
+You want to get hired in this century, right?
 
 - **SOLID**
     - [ ] [Bob Martin SOLID Principles of Object Oriented and Agile Design (video)](https://www.youtube.com/watch?v=TMuno5RZNeE)

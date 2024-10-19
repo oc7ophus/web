@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ## Additional Books
 
     These are here so you can dive into a topic you find interesting.

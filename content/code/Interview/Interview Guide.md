@@ -1,3 +1,9 @@
+---
+tags:
+  - guide
+  - interview
+---
+
 ## What is it?
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
@@ -103,7 +109,7 @@ You need to be very comfortable in the language and be knowledgeable.
 Read more about choices:
 - [Choose the Right Language for Your Coding Interview](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
 
-[See language-specific resources here](programming-language-resources.md)
+[See language-specific resources here](Prog%20lang%20Resources.md)
 
 ---
 

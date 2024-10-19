@@ -1,3 +1,9 @@
+---
+tags:
+  - guide
+  - interview
+---
+
 ## Update Your Resume
 
 - See Resume prep information in the books: "Cracking The Coding Interview" and "Programming Interviews Exposed"

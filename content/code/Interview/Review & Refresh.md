@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ## Final Review
 
 This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.

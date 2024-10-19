@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement here, you're just watching videos and taking notes! Yay!

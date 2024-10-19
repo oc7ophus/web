@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ## Video Series
 
 Sit back and enjoy.

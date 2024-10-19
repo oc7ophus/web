@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ## More Knowledge
 
 - ### Binary search

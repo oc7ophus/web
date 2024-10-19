@@ -1,3 +1,8 @@
+---
+tags:
+  - programming
+---
+
 
 The University of Maths are having issues with their new timetable. They have carved up each weekday into four, 90 minute periods.
 

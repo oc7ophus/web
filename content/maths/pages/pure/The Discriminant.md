@@ -5,7 +5,6 @@ tags:
   - pure
 ---
 
-
 $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}_\quad{\t{quadratic formula}}$$
 
 $${b^2-4ac}_\quad{\t{discriminant}}$$

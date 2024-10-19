@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ### Optional Extra Topics & Resources
 
 - [ ] [Additional Books](#additional-books)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - pages/refined
+  - pages/dirty
   - algebra
   - pure
 ---
@@ -66,7 +66,7 @@ $(x+\frac{5}{2})^2=0$
 $x+ \frac{5}{2} = 0$
 $x = -2.5$
 
-the minimum point of $y = x^2 + 5x - 3$ is $\bl-2.5, -9.25\br$
+the minimum point of $y = x^2 + 5x - 3$ is $(-2.5, -9.25)$
 the line of symmetry is $x = -2.5$
 
 ---
@@ -91,7 +91,7 @@ $y = -(2-2)^2$
 $y = -(0)^2$
 $y = -1$
 
-The turning point of the equation $y = -x^2+ 4x -5$ is $\bl 2, -1\br$
+The turning point of the equation $y = -x^2+ 4x -5$ is $(2, -1)$
 
 The maximum point is below the $x$-axis, which means there are no roots. We can prove this by substituting in $y$ as $0$
 
@@ -171,7 +171,7 @@ $y = 0$
 $(x-3)^2 = 0$
 $x = 3$
 
-*turning point:* $\bl 3,0\br$
+*turning point:* $(3,0)$
 *line of sym:* $x=3$
 
 ---

@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+  - interview
+---
 
 **You can expect system design questions if you have 4+ years of experience.**
 

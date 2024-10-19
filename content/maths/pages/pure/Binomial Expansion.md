@@ -1,7 +1,7 @@
 ---
 tags:
   - binomial/expansion
-  - pages/refined
+  - pages/dirty
   - pure
 ---
 

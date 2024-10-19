@@ -1,7 +1,11 @@
-## Additional Learning
+---
+tags:
+  - guide
+---
 
-    I added them to help you become a well-rounded software engineer and to be aware of certain
-    technologies and algorithms, so you'll have a bigger toolbox.
+
+I added them to help you become a well-rounded software engineer and to be aware of certain
+technologies and algorithms, so you'll have a bigger toolbox.
 
 - ### Compilers
     - [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)

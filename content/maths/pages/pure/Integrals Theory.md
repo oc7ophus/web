@@ -35,7 +35,7 @@ Finding an Integral is the reverse of finding a Derivative
 
 The symbol for "Integral" is an "S" for "Sum", the idea of summing slices: 
 
-$\intop x \dx$
+$\intop x {\,_{\mathrm{dx}}}$
 
 After the Integral Symbol we put the function we want to find. This is called the Integrand.
 
@@ -43,7 +43,7 @@ Finally, we end with $\t{dx}$ to mean the slices go in the $x$ direction approac
 
 And here is how you write the answer:
 
-$\intop 2x \dx = x^2 + C$
+$\intop 2x {\,_{\mathrm{dx}}} = x^2 + C$
 
 ## Plus C
 
@@ -74,7 +74,7 @@ As the flow rate increases, the tank fills up faster and faster:
 - Derivative: If the tank volume increases by $x^2$, then the flow rate must be $2x$
 
 The integral of the flow rate $2x$ tells the volume of the water:
-$\intop 2x \dx = x^2 + C$
+$\intop 2x {\,_{\mathrm{dx}}} = x^2 + C$
 
 The derivative of the volume $x^2+C$ gives us back the flow rate:
 $\frac{d}{dx} (x^2+C) = 2x$

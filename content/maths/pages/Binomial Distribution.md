@@ -24,6 +24,7 @@ A binomial distribution is a a discrete probability distribution that describes 
 > > $\sim:$ (Tilda) "follows" or "is distributed as".
 > 
 > > [!abstract] $B(n,p)$
+> > 
 > > $B :$ Indicates a binomial distribution
 > > $n :$ number of trials
 > > $p :$ probability of success
@@ -34,7 +35,7 @@ A binomial distribution is a a discrete probability distribution that describes 
 > We are declaring $X$ has a binomial distribution with 20 trials each with a 50% chance of success
 
 > [!info]- Visualisation 
-The distribution can be represented visually using a vertical line graph
+> The distribution can be represented visually using a vertical line graph
 >
 > > [!abstract] $p: 0.2$ 
 > > ![[Pasted image 20240419140528.png]]

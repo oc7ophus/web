@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+  - interview/prep
+---
 ## Interview Prep Books
 
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough,

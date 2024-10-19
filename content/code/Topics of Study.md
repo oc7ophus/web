@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ### Topics of Study
 
 - [ ] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)

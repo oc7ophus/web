@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ## Trees
 
 - ### Trees - Intro

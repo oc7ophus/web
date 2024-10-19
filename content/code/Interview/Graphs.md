@@ -1,3 +1,8 @@
+---
+tags:
+  - guide
+---
+
 ## Graphs
 
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting.
