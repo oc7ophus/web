@@ -1,4 +1,8 @@
-#electricity 
+---
+tags:
+  - pages/dirty
+  - superconductivity
+---
 
 - All materials have some resistivity - even good electrical conductors such as copper and silver
 - Resistance means that when electricity flows through a material, it heats up and the electrical energy is wasted as thermal energy
@@ -30,8 +34,4 @@
 > Superconductivity occurs when there is **no** resistance. 
 > 
 > Avoid writing that there is a 'little' resistance or 'thermal' conductivity, which are not entirely correct
-
----
-
-## Flashcards
 

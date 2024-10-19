@@ -1,4 +1,9 @@
-#electricity 
+---
+tags:
+  - pages/dirty
+  - electricity
+---
+
 
 - Superconductors are useful for applications that require large electric currents
 - Therefore, they are useful for:
@@ -24,8 +29,3 @@
     - Maglev train systems currently only exist in Japan, South Korea and China
 
 ![[Pasted image 20240709021831.png]]
-
----
-
-## Flashcards
-

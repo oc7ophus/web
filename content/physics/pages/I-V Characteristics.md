@@ -1,4 +1,9 @@
-#electricity 
+---
+tags:
+  - pages/dirty
+  - electricity
+---
+
 
 - As the potential difference (voltage) across a component is increased, the current also increases (by Ohm’s law)
 - The precise relationship between voltage and current is different for different components and can be shown on an _I-V_ graph

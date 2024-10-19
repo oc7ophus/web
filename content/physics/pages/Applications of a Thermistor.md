@@ -1,4 +1,9 @@
-#electricity 
+---
+tags:
+  - pages/dirty
+  - electricity
+---
+
 
 - A thermistor is a non-ohmic conductor and sensory resistor whose resistance varies with temperature
 - Most thermistors are negative temperature coefficient (ntc) components.

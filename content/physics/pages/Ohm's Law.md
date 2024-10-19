@@ -1,3 +1,10 @@
+---
+tags:
+  - pages/dirty
+  - electricity
+---
+
+
 **For a conductor at a constant temperature, the current through it is proportional to the potential difference across it**
 
 - Constant temperature implies constant resistance

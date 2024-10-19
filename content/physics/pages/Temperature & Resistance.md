@@ -1,4 +1,9 @@
-#electricity 
+---
+tags:
+  - pages/dirty
+  - electricity
+  - resistance/temperature
+---
 
 - All solids are made up of vibrating atoms
     

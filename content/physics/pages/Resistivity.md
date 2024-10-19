@@ -1,4 +1,9 @@
-#electricity
+---
+tags:
+  - pages/dirty
+  - electricity
+  - resistivity
+---
 
 ## Resistivity
 
