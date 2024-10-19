@@ -1,9 +1,9 @@
 ---
 title: Homepage
 ---
-Hello, I'm oc7o. I'm an A-Level student studying Computer Science, Maths and Physics.
+Hello, I'm [oc7o](https://github.com/oc7ophus/). I'm an 18 year old developer studying Computer Science, Maths and Physics at A-Level.
 
-Welcome to my [Digital garden](https://jzhao.xyz/posts/networked-thought). This website was made to centralize my academic notes and other misc projects. 
+Welcome to my [Digital garden](https://jzhao.xyz/posts/networked-thought). This website was made to centralize my academic notes and other projects. 
 
 Feel free to take a look around using the search bar / explorer, or these starting points:
 
@@ -16,5 +16,4 @@ Feel free to take a look around using the search bar / explorer, or these starti
 Note: This website is still under construction!
 
 Reporting any bugs to `wikt@tutanota.com` would be appreciated!
-
 
