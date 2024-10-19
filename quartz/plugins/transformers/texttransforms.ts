@@ -14,6 +14,7 @@ export const TextTransforms: QuartzTransformerPlugin = () => {
         [/\\me(?=[\s{])/g, '\\ge'],
         [/\\lb(?=[\s{])/g, '\\bigg ['],
         [/\\rb(?=[\s{])/g, '\\bigg ]'],
+        [/\\ol(?=[\s{])/g, '\\overline'],
         [/\\d(?=[\s{])/g, '\\Delta'],
         [/\\r(?=[\s{])/g, '\\Rightarrow'],
         [/\\t(?=[\s{])/g, '\\text'],
