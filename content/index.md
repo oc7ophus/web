@@ -7,7 +7,8 @@ Welcome to my [Digital garden](https://jzhao.xyz/posts/networked-thought). This 
 
 Feel free to take a look around using the search bar / explorer, or these starting points:
 
-- [maths/pages]
+- [[tags/pages]]
+- [[tags]]
 
 
 ---
