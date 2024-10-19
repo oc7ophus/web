@@ -1,0 +1,46 @@
+### Optional Extra Topics & Resources
+
+- [ ] [Additional Books](#additional-books)
+- [ ] [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
+- [ ] [Additional Learning](#additional-learning)
+    - [ ] [Compilers](#compilers)
+    - [ ] [Emacs and vi(m)](#emacs-and-vim)
+    - [ ] [Unix command line tools](#unix-command-line-tools)
+    - [ ] [Information theory](#information-theory-videos)
+    - [ ] [Parity & Hamming Code](#parity--hamming-code-videos)
+    - [ ] [Entropy](#entropy)
+    - [ ] [Cryptography](#cryptography)
+    - [ ] [Compression](#compression)
+    - [ ] [Computer Security](#computer-security)
+    - [ ] [Garbage collection](#garbage-collection)
+    - [ ] [Parallel Programming](#parallel-programming)
+    - [ ] [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
+    - [ ] [A*](#a)
+    - [ ] [Fast Fourier Transform](#fast-fourier-transform)
+    - [ ] [Bloom Filter](#bloom-filter)
+    - [ ] [HyperLogLog](#hyperloglog)
+    - [ ] [Locality-Sensitive Hashing](#locality-sensitive-hashing)
+    - [ ] [van Emde Boas Trees](#van-emde-boas-trees)
+    - [ ] [Augmented Data Structures](#augmented-data-structures)
+    - [ ] [Balanced search trees](#balanced-search-trees)
+        - [ ] AVL trees
+        - [ ] Splay trees
+        - [ ] Red/black trees
+        - [ ] 2-3 search trees
+        - [ ] 2-3-4 Trees (aka 2-4 trees)
+        - [ ] N-ary (K-ary, M-ary) trees
+        - [ ] B-Trees
+    - [ ] [k-D Trees](#k-d-trees)
+    - [ ] [Skip lists](#skip-lists)
+    - [ ] [Network Flows](#network-flows)
+    - [ ] [Disjoint Sets & Union Find](#disjoint-sets--union-find)
+    - [ ] [Math for Fast Processing](#math-for-fast-processing)
+    - [ ] [Treap](#treap)
+    - [ ] [Linear Programming](#linear-programming-videos)
+    - [ ] [Geometry, Convex hull](#geometry-convex-hull-videos)
+    - [ ] [Discrete math](#discrete-math)
+- [ ] [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+- [ ] [Video Series](#video-series)
+- [ ] [Computer Science Courses](#computer-science-courses)
+- [ ] [Papers](#papers)
+

@@ -1,0 +1,47 @@
+### Topics of Study
+
+- [ ] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [ ] [Data Structures](#data-structures)
+    - [ ] [Arrays](#arrays)
+    - [ ] [Linked Lists](#linked-lists)
+    - [ ] [Stack](#stack)
+    - [ ] [Queue](#queue)
+    - [ ] [Hash table](#hash-table)
+- [ ] [More Knowledge](#more-knowledge)
+    - [ ] [Binary search](#binary-search)
+    - [ ] [Bitwise operations](#bitwise-operations)
+- [ ] [Trees](#trees)
+    - [ ] [Trees - Intro](#trees---intro)
+    - [ ] [Binary search trees: BSTs](#binary-search-trees-bsts)
+    - [ ] [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - [ ] balanced search trees (general concept, not details)
+    - [ ] traversals: preorder, inorder, postorder, BFS, DFS
+- [ ] [Sorting](#sorting)
+    - [ ] selection
+    - [ ] insertion
+    - [ ] heapsort
+    - [ ] quicksort
+    - [ ] mergesort
+- [ ] [Graphs](#graphs)
+    - [ ] directed
+    - [ ] undirected
+    - [ ] adjacency matrix
+    - [ ] adjacency list
+    - [ ] traversals: BFS, DFS
+- [ ] [Even More Knowledge](#even-more-knowledge)
+    - [ ] [Recursion](#recursion)
+    - [ ] [Dynamic Programming](#dynamic-programming)
+    - [ ] [Design Patterns](#design-patterns)
+    - [ ] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
+    - [ ] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
+    - [ ] [How computers process a program](#how-computers-process-a-program)
+    - [ ] [Caches](#caches)
+    - [ ] [Processes and Threads](#processes-and-threads)
+    - [ ] [Testing](#testing)
+    - [ ] [String searching & manipulations](#string-searching--manipulations)
+    - [ ] [Tries](#tries)
+    - [ ] [Floating Point Numbers](#floating-point-numbers)
+    - [ ] [Unicode](#unicode)
+    - [ ] [Endianness](#endianness)
+    - [ ] [Networking](#networking)
+- [ ] [Final Review](#final-review)
