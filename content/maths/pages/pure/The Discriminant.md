@@ -1,7 +1,8 @@
 ---
 tags:
   - algebra
-  - pages
+  - pages/dirty
+  - pure
 ---
 
 

@@ -2,8 +2,8 @@
 tags:
   - pages
   - derivatives
+  - table
 ---
-
 
 | Common Functions                 |    Function    |        Derivative        |
 | -------------------------------- | :------------: | :----------------------: |

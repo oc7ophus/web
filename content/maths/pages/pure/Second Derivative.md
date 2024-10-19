@@ -2,6 +2,7 @@
 tags:
   - derivatives/second
   - pages/refined
+  - pure
 ---
 
 

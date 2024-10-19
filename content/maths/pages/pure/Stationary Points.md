@@ -3,6 +3,7 @@ tags:
   - graphs
   - derivatives/points
   - pages/dirty
+  - pure
 ---
 
 

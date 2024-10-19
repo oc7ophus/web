@@ -1,39 +1,131 @@
 ---
 tags:
-  - proofs
   - derivatives
+  - proofs
   - pages/refined
+  - pure
+---
+We can find the gradient from two points, but how would you find a gradient on a curve with just one point?
+
+
+> [!info]- Slopes
+> 
+> Derivatives are used to find a slope at a certain point along a line.
+> 
+> ![[Pasted image 20240430181705.png]]
+> 
+> ![[Pasted image 20240707182106.png]]
+
+> [!info]- Two vs One point
+> 
+> Take the following curve with two points:
+> 
+> ![[Pasted image 20240430181725.png]]
+> 
+> We find the average between these two points to be $\frac{24}{15}$
+> 
+> However, how would you be able to find the slope at a single point?
+> 
+> ![[Pasted image 20240430181753.png]]
+
+
+Using derivatives, we allow ourselves to use a small difference, $\Delta x$, and have it *tend towards* 0.
+
+![[Pasted image 20240430181837.png]]
+
+Essentially we are observing our function reacting as the change in $x$ becomes infinitesimally small.
+
+Now, we use the following slope formula, where we compare the difference $(\Delta)$ between $y$ and $x$:
+
+$$
+\frac{\d y}{\d x}
+$$
+
+
+![[Pasted image 20240430182034.png]]
+
+From the diagram, we can fill in our slope formula with our two points.
+
+First, $\Delta x$ remains as simply $\d x$
+Second, $\Delta y$ becomes $f(x + \Delta x) - f(x)$
+
+Substituting this into our slope formula, we get:
+
+$$
+\frac{\d y}{\d x} = \frac{f(x+\d x) - f(x)}{\d x}
+$$
+
+
 ---
 
-## Proof of Derivatives
+## Applying the formula
 
-$$\lim_{h \rightarrow 0} \frac{f(x+h)-f(x)}{h}$$
+Say we have a curve. $f(x) = x^2$
 
-The top of the fraction means, change in $y$
-The bottom of the fraction is our change in $x$
-i.e, the approximate gradient.
+We can substitute this into our slope formula:
 
-Example:
+$$
+\begin{align}
+ & \frac{f(x+\d x) - f(x)}{\d x} \\ \\ 
+ & \frac{f(x+\d x)^2 - x^2}{\d x}
+\end{align}
+$$
 
-*We create an approximate equation*
+*We expand out $f(x + \Delta x)^{2}$:*
 
-$$\lim_{h \rightarrow 0} \frac{(x+h)^5-(x)^5}{h}$$
+$$
+\frac{(x^2 + 2x \d x + (\d x )^2) - x^2}{\d x}
+$$
 
-*Simplify; or no more dividing by 0.*
-*We can start by expanding out the brackets*
+*We simplify:*
 
-$1x^5h^0 + 5x^4h^1 + 10x^3h^2 + 10x^2h^3 + 5x^1h^4 + 1x^0h^5 +    -(x)^5$
-$5x^4h + 10x^3h^2 + 10x^2h^3 + 5x^1h^4 + h^5$
+$$\frac{2x \d x + (\d x)^2}{\d x}$$
 
-$\lim_{h \rightarrow 0} \frac{5x^4h + 10x^3h^2 + 10x^2h^3 + 5x^1h^4 + h^5}{h}$
+*Then we divide through by $\d x$:*
 
-*Factorising $h$ **then** cancelling out will keep you safe from losing marks!*
+$$2x + \d x$$
 
-$h(5x^4 + 10x^3h + 10x^2h^2 + 5h^3x + h^4)$
+*Finally, as $\d x$ tends towards 0, we get:*
 
-$\lim_{h \rightarrow 0} {5x^4 + 10x^3h + 10x^2h^2 + 5h^3x + h^4}$
+$$ 2x$$
 
-*As h->0*
+Success! We have found the derivative of $x^2$. The slope at $x$ will be $2x$
 
-$\r 5x^4$
+- Put simply, for our function $x^2$, the slope or "rate of change" at any point is $2x$.
 
+So when $x=2$, the slope is $2x = 4$. This is shown here:
+
+![[Pasted image 20240430183508.png]]
+
+Or when $x=5$, the slope is $2x = 10$, and so on.
+
+This whole process of substitution; simplification; then allowing $\Delta x$ tend to zero to find the **Derivative** is called **Differentiation**!
+
+---
+
+## Notation
+
+
+$f’(x)$ means "the derivative of":
+
+$$
+f'(x) = 2x
+$$
+
+Derivative can be written as:
+
+$$
+\frac{dy}{dx} \quad \t{or}\quad f'(x)
+$$
+
+And second derivatives are written like so:
+
+$$
+\frac{d^2y}{dx^2} \quad \t{or} \quad f''(x)
+$$
+
+"Tend towards zero" is actually written as a limit:
+
+$$f'(x) = \lim_{{\d x} \rightarrow 0}{\frac{f(x+ \d x) - f(x)}{\d x}}$$
+
+And now we have our full formula!

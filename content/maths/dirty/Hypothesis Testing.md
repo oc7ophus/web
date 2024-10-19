@@ -2,6 +2,7 @@
 tags:
   - pages/dirty
   - stats/hypothesis-testing
+  - stats
 ---
 
 #### What is a hypothesis test?

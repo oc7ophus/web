@@ -3,6 +3,7 @@ tags:
   - pages/refined
   - algebra
   - graphs
+  - pure
 ---
 
 The point-slope form of the equation of a line is a way to write the equation of a line when you know:

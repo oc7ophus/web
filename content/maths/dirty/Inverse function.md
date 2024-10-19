@@ -2,6 +2,7 @@
 tags:
   - pages/dirty
   - algebra
+  - pure
 ---
 
 To find the inverse of a function:

@@ -3,6 +3,7 @@ tags:
   - pages/dirty
   - graphs
   - derivatives/minmax
+  - pure
 ---
 
 

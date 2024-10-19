@@ -3,6 +3,7 @@ tags:
   - pages/refined
   - integrals
   - proofs
+  - pure
 ---
 
  

@@ -2,9 +2,8 @@
 tags:
   - binomial/expansion
   - pages/refined
+  - pure
 ---
-
-
 
 > [!info] Notation
 > 

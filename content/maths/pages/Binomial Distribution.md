@@ -2,6 +2,7 @@
 tags:
   - binomial/distribution
   - pages/refined
+  - stats
 ---
 
 ## What is a Binomial Distribution?

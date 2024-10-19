@@ -2,8 +2,8 @@
 tags:
   - pages/refined
   - algebra
+  - pure
 ---
-
 
 $y = a(x\pm b)^2+c$
 
