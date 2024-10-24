@@ -3,6 +3,7 @@ tags:
   - pages
   - derivatives
   - table
+  - pure
 ---
 
 | Common Functions                 |    Function    |        Derivative        |

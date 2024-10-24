@@ -5,7 +5,6 @@ tags:
   - pure
 ---
 
-
 Multiplying indices
 
 $a^{m} \cdot a^{n} = a^{m + n}$
